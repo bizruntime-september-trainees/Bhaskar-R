@@ -1,0 +1,13 @@
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.exe
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.deps.json
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.runtimeconfig.json
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.runtimeconfig.dev.json
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.dll
+E:\.net coding\SwitchCalculator\SwitchPractie\bin\Debug\netcoreapp3.1\SwitchPractie.pdb
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.csprojAssemblyReference.cache
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.AssemblyInfoInputs.cache
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.AssemblyInfo.cs
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.csproj.CoreCompileInputs.cache
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.dll
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.pdb
+E:\.net coding\SwitchCalculator\SwitchPractie\obj\Debug\netcoreapp3.1\SwitchPractie.genruntimeconfig.cache

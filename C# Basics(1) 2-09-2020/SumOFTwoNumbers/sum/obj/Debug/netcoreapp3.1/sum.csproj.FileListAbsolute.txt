@@ -1,0 +1,13 @@
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.exe
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.deps.json
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.json
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.dev.json
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.dll
+E:\.net coding\SumOFTwoNumbers\sum\bin\Debug\netcoreapp3.1\sum.pdb
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfoInputs.cache
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfo.cs
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.csproj.CoreCompileInputs.cache
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.dll
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.pdb
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.genruntimeconfig.cache
+E:\.net coding\SumOFTwoNumbers\sum\obj\Debug\netcoreapp3.1\sum.csprojAssemblyReference.cache

@@ -1,0 +1,26 @@
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.exe
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.deps.json
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.runtimeconfig.json
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.runtimeconfig.dev.json
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.dll
+E:\.net coding\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.pdb
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.csprojAssemblyReference.cache
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.AssemblyInfoInputs.cache
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.AssemblyInfo.cs
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.csproj.CoreCompileInputs.cache
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.dll
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.pdb
+E:\.net coding\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.genruntimeconfig.cache
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.exe
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.deps.json
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.runtimeconfig.json
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.runtimeconfig.dev.json
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.dll
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\bin\Debug\netcoreapp3.1\conditionalstatements.pdb
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.csprojAssemblyReference.cache
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.AssemblyInfoInputs.cache
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.AssemblyInfo.cs
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.csproj.CoreCompileInputs.cache
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.dll
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.pdb
+E:\.net coding\C# Basics\ConditionalStatements\conditionalstatements\obj\Debug\netcoreapp3.1\conditionalstatements.genruntimeconfig.cache
