@@ -1,0 +1,26 @@
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\hp\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\hp\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+E:\.net coding\source\repos\ReadingArray\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+E:\.net coding\source\repos\ReadingArray\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

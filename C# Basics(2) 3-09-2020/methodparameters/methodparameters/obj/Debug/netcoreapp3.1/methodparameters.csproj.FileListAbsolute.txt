@@ -1,0 +1,13 @@
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.exe
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.deps.json
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.runtimeconfig.json
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.runtimeconfig.dev.json
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.dll
+E:\.net coding\methodparameters\methodparameters\bin\Debug\netcoreapp3.1\methodparameters.pdb
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.AssemblyInfoInputs.cache
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.AssemblyInfo.cs
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.csproj.CoreCompileInputs.cache
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.dll
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.pdb
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.genruntimeconfig.cache
+E:\.net coding\methodparameters\methodparameters\obj\Debug\netcoreapp3.1\methodparameters.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.AssemblyInfoInputs.cache
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.AssemblyInfo.cs
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.csproj.CoreCompileInputs.cache
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.exe
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.deps.json
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.runtimeconfig.json
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.runtimeconfig.dev.json
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.dll
+E:\.net coding\InputArray\inputarray\bin\Debug\netcoreapp3.1\inputarray.pdb
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.dll
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.pdb
+E:\.net coding\InputArray\inputarray\obj\Debug\netcoreapp3.1\inputarray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.exe
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.deps.json
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.json
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.dev.json
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.dll
+E:\.net coding\AbstractionExamples\abstraction\bin\Debug\netcoreapp3.1\abstraction.pdb
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.csprojAssemblyReference.cache
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfoInputs.cache
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfo.cs
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.csproj.CoreCompileInputs.cache
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.dll
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.pdb
+E:\.net coding\AbstractionExamples\abstraction\obj\Debug\netcoreapp3.1\abstraction.genruntimeconfig.cache

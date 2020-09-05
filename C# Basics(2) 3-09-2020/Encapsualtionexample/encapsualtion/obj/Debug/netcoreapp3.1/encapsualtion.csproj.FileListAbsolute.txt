@@ -1,0 +1,13 @@
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.exe
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.deps.json
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.runtimeconfig.json
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.runtimeconfig.dev.json
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.dll
+E:\.net coding\Encapsualtionexample\encapsualtion\bin\Debug\netcoreapp3.1\encapsualtion.pdb
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.AssemblyInfoInputs.cache
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.AssemblyInfo.cs
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.csproj.CoreCompileInputs.cache
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.dll
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.pdb
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.genruntimeconfig.cache
+E:\.net coding\Encapsualtionexample\encapsualtion\obj\Debug\netcoreapp3.1\encapsualtion.csprojAssemblyReference.cache
