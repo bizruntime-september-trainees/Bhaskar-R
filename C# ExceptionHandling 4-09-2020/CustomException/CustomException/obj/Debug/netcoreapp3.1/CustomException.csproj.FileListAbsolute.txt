@@ -1,0 +1,13 @@
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+E:\.net coding\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.csprojAssemblyReference.cache
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+E:\.net coding\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache
