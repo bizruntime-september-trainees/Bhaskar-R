@@ -1,0 +1,12 @@
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.exe
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.deps.json
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.runtimeconfig.json
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.runtimeconfig.dev.json
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.dll
+E:\.net coding\SortingListByID\SortingListByID\bin\Debug\netcoreapp3.1\SortingListByID.pdb
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.AssemblyInfoInputs.cache
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.AssemblyInfo.cs
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.csproj.CoreCompileInputs.cache
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.dll
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.pdb
+E:\.net coding\SortingListByID\SortingListByID\obj\Debug\netcoreapp3.1\SortingListByID.genruntimeconfig.cache

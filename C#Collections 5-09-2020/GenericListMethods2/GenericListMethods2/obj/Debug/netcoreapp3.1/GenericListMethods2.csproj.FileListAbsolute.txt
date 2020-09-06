@@ -1,0 +1,12 @@
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.exe
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.deps.json
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.runtimeconfig.json
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.runtimeconfig.dev.json
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.dll
+E:\.net coding\GenericListMethods2\GenericListMethods2\bin\Debug\netcoreapp3.1\GenericListMethods2.pdb
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.AssemblyInfoInputs.cache
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.AssemblyInfo.cs
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.csproj.CoreCompileInputs.cache
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.dll
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.pdb
+E:\.net coding\GenericListMethods2\GenericListMethods2\obj\Debug\netcoreapp3.1\GenericListMethods2.genruntimeconfig.cache

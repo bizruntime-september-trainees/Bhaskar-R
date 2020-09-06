@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.exe
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.deps.json
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.runtimeconfig.json
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.dll
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\bin\Debug\netcoreapp3.1\ListClassRangeMethods.pdb
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.AssemblyInfo.cs
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.dll
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.pdb
+C:\Users\hp\source\repos\ListClassRangeMethods\ListClassRangeMethods\obj\Debug\netcoreapp3.1\ListClassRangeMethods.genruntimeconfig.cache

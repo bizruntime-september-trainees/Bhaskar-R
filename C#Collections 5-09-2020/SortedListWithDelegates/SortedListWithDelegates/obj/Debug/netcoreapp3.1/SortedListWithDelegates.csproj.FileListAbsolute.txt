@@ -1,0 +1,13 @@
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.exe
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.deps.json
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.runtimeconfig.json
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.runtimeconfig.dev.json
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.dll
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\bin\Debug\netcoreapp3.1\SortedListWithDelegates.pdb
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.csprojAssemblyReference.cache
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.AssemblyInfoInputs.cache
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.AssemblyInfo.cs
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.csproj.CoreCompileInputs.cache
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.dll
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.pdb
+E:\.net coding\SortedListWithDelegates\SortedListWithDelegates\obj\Debug\netcoreapp3.1\SortedListWithDelegates.genruntimeconfig.cache
