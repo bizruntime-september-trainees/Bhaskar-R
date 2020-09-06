@@ -1,0 +1,13 @@
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.exe
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.deps.json
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.runtimeconfig.json
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.runtimeconfig.dev.json
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.dll
+E:\.net coding\ListMethods\listexamples\bin\Debug\netcoreapp3.1\listexamples.pdb
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.AssemblyInfoInputs.cache
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.AssemblyInfo.cs
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.csproj.CoreCompileInputs.cache
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.dll
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.pdb
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.genruntimeconfig.cache
+E:\.net coding\ListMethods\listexamples\obj\Debug\netcoreapp3.1\listexamples.csprojAssemblyReference.cache
