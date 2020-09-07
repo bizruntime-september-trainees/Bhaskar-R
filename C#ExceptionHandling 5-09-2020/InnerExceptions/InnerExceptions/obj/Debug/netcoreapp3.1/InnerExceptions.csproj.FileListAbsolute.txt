@@ -1,0 +1,13 @@
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.exe
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.deps.json
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.runtimeconfig.json
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.runtimeconfig.dev.json
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.dll
+E:\.net coding\InnerExceptions\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.pdb
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.csprojAssemblyReference.cache
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.AssemblyInfoInputs.cache
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.AssemblyInfo.cs
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.csproj.CoreCompileInputs.cache
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.dll
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.pdb
+E:\.net coding\InnerExceptions\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.genruntimeconfig.cache

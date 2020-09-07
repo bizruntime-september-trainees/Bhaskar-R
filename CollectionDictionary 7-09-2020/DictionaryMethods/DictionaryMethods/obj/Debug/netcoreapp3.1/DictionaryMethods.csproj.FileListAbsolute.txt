@@ -1,0 +1,13 @@
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.exe
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.deps.json
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.runtimeconfig.json
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.runtimeconfig.dev.json
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.dll
+E:\.net coding\DictionaryMethods\DictionaryMethods\bin\Debug\netcoreapp3.1\DictionaryMethods.pdb
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.AssemblyInfoInputs.cache
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.AssemblyInfo.cs
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.dll
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.pdb
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.genruntimeconfig.cache
+E:\.net coding\DictionaryMethods\DictionaryMethods\obj\Debug\netcoreapp3.1\DictionaryMethods.csprojAssemblyReference.cache

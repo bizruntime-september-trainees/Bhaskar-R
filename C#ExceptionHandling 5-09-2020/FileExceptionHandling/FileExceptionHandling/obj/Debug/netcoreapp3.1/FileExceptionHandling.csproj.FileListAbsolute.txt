@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.exe
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.deps.json
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.runtimeconfig.json
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.dll
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\bin\Debug\netcoreapp3.1\FileExceptionHandling.pdb
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.AssemblyInfo.cs
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.dll
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.pdb
+C:\Users\hp\source\repos\FileExceptionHandling\FileExceptionHandling\obj\Debug\netcoreapp3.1\FileExceptionHandling.genruntimeconfig.cache
