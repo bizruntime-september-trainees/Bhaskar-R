@@ -1,0 +1,13 @@
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.exe
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.deps.json
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.runtimeconfig.json
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.runtimeconfig.dev.json
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.dll
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\bin\Debug\netcoreapp3.1\IndexersWithListEmployee.pdb
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.AssemblyInfoInputs.cache
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.AssemblyInfo.cs
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.csproj.CoreCompileInputs.cache
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.dll
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.pdb
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.genruntimeconfig.cache
+E:\.net coding\IndexersWithListEmployee\IndexersWithListEmployee\obj\Debug\netcoreapp3.1\IndexersWithListEmployee.csprojAssemblyReference.cache
