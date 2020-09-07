@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.exe
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.deps.json
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.runtimeconfig.json
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.dll
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\bin\Debug\netcoreapp3.1\CollctionLinqSorting.pdb
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.AssemblyInfo.cs
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.dll
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.pdb
+C:\Users\hp\source\repos\CollctionLinqSorting\CollctionLinqSorting\obj\Debug\netcoreapp3.1\CollctionLinqSorting.genruntimeconfig.cache

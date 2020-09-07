@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.exe
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.deps.json
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.runtimeconfig.json
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.dll
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\bin\Debug\netcoreapp3.1\CollectionLinqGroupBy.pdb
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.AssemblyInfo.cs
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.dll
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.pdb
+C:\Users\hp\source\repos\CollectionLinqGroupBy\CollectionLinqGroupBy\obj\Debug\netcoreapp3.1\CollectionLinqGroupBy.genruntimeconfig.cache

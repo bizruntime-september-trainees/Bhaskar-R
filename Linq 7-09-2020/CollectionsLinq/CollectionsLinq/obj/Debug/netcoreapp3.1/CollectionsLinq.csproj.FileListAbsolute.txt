@@ -1,0 +1,13 @@
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.exe
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.deps.json
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.runtimeconfig.json
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.runtimeconfig.dev.json
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.dll
+E:\.net coding\CollectionsLinq\CollectionsLinq\bin\Debug\netcoreapp3.1\CollectionsLinq.pdb
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.csprojAssemblyReference.cache
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.AssemblyInfoInputs.cache
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.AssemblyInfo.cs
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.csproj.CoreCompileInputs.cache
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.dll
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.pdb
+E:\.net coding\CollectionsLinq\CollectionsLinq\obj\Debug\netcoreapp3.1\CollectionsLinq.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.exe
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.deps.json
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.runtimeconfig.json
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.dll
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\bin\Debug\netcoreapp3.1\CollectionsLinqWithLambda.pdb
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.AssemblyInfo.cs
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.dll
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.pdb
+C:\Users\hp\source\repos\CollectionsLinqWithLambda\CollectionsLinqWithLambda\obj\Debug\netcoreapp3.1\CollectionsLinqWithLambda.genruntimeconfig.cache
