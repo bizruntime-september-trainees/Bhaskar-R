@@ -1,0 +1,13 @@
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.csprojAssemblyReference.cache
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.AssemblyInfoInputs.cache
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.AssemblyInfo.cs
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.exe
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.deps.json
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.runtimeconfig.json
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.runtimeconfig.dev.json
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.dll
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\bin\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.pdb
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.dll
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.pdb
+E:\.net coding\ConcurrentBagCollectionMethods\ConcurrentBagCollectionMethods\obj\Debug\netcoreapp3.1\ConcurrentBagCollectionMethods.genruntimeconfig.cache

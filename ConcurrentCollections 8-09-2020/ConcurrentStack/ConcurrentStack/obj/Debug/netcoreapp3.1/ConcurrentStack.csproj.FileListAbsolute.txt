@@ -1,0 +1,13 @@
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.exe
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.deps.json
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.runtimeconfig.json
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.runtimeconfig.dev.json
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.dll
+E:\.net coding\ConcurrentStack\ConcurrentStack\bin\Debug\netcoreapp3.1\ConcurrentStack.pdb
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.csprojAssemblyReference.cache
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.AssemblyInfoInputs.cache
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.AssemblyInfo.cs
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.csproj.CoreCompileInputs.cache
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.dll
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.pdb
+E:\.net coding\ConcurrentStack\ConcurrentStack\obj\Debug\netcoreapp3.1\ConcurrentStack.genruntimeconfig.cache

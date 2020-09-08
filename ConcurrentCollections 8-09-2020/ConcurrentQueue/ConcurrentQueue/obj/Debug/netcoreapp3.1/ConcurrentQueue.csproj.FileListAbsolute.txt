@@ -1,0 +1,12 @@
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.exe
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.deps.json
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.runtimeconfig.json
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.runtimeconfig.dev.json
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.dll
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.pdb
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.AssemblyInfoInputs.cache
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.AssemblyInfo.cs
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.csproj.CoreCompileInputs.cache
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.dll
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.pdb
+E:\.net coding\ConcurrentQueue\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.genruntimeconfig.cache
