@@ -1,0 +1,13 @@
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.exe
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.deps.json
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.runtimeconfig.json
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.runtimeconfig.dev.json
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.dll
+E:\.net coding\StackMethods\StackMethods\bin\Debug\netcoreapp3.1\StackMethods.pdb
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.csprojAssemblyReference.cache
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.AssemblyInfoInputs.cache
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.AssemblyInfo.cs
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.dll
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.pdb
+E:\.net coding\StackMethods\StackMethods\obj\Debug\netcoreapp3.1\StackMethods.genruntimeconfig.cache

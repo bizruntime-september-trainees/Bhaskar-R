@@ -1,0 +1,13 @@
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.exe
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.deps.json
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.runtimeconfig.json
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.runtimeconfig.dev.json
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.dll
+E:\.net coding\ArrayListMethods\ArrayListMethods\bin\Debug\netcoreapp3.1\ArrayListMethods.pdb
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.csprojAssemblyReference.cache
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.AssemblyInfoInputs.cache
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.AssemblyInfo.cs
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.dll
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.pdb
+E:\.net coding\ArrayListMethods\ArrayListMethods\obj\Debug\netcoreapp3.1\ArrayListMethods.genruntimeconfig.cache

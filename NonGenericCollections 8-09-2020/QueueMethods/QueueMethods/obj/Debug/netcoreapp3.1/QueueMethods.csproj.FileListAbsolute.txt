@@ -1,0 +1,12 @@
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.exe
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.deps.json
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.runtimeconfig.json
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.runtimeconfig.dev.json
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.dll
+E:\.net coding\QueueMethods\QueueMethods\bin\Debug\netcoreapp3.1\QueueMethods.pdb
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.AssemblyInfoInputs.cache
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.AssemblyInfo.cs
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.dll
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.pdb
+E:\.net coding\QueueMethods\QueueMethods\obj\Debug\netcoreapp3.1\QueueMethods.genruntimeconfig.cache
