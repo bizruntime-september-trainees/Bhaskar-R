@@ -1,0 +1,13 @@
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.exe
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.deps.json
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.runtimeconfig.json
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.runtimeconfig.dev.json
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.dll
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\bin\Debug\netcoreapp3.1\SortedDictionaryMethods.pdb
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.csprojAssemblyReference.cache
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.AssemblyInfoInputs.cache
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.AssemblyInfo.cs
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.dll
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.pdb
+E:\.net coding\SortedDictionaryMethods\SortedDictionaryMethods\obj\Debug\netcoreapp3.1\SortedDictionaryMethods.genruntimeconfig.cache

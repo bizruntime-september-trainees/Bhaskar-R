@@ -1,0 +1,12 @@
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.exe
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.deps.json
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.runtimeconfig.json
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.runtimeconfig.dev.json
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.dll
+E:\.net coding\SortedSetMethods\SortedSetMethods\bin\Debug\netcoreapp3.1\SortedSetMethods.pdb
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.AssemblyInfoInputs.cache
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.AssemblyInfo.cs
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.dll
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.pdb
+E:\.net coding\SortedSetMethods\SortedSetMethods\obj\Debug\netcoreapp3.1\SortedSetMethods.genruntimeconfig.cache

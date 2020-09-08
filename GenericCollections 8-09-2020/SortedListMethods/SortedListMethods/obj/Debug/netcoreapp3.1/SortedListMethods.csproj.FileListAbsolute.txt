@@ -1,0 +1,13 @@
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.exe
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.deps.json
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.runtimeconfig.json
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.runtimeconfig.dev.json
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.dll
+E:\.net coding\SortedListMethods\SortedListMethods\bin\Debug\netcoreapp3.1\SortedListMethods.pdb
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.csprojAssemblyReference.cache
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.AssemblyInfoInputs.cache
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.AssemblyInfo.cs
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.dll
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.pdb
+E:\.net coding\SortedListMethods\SortedListMethods\obj\Debug\netcoreapp3.1\SortedListMethods.genruntimeconfig.cache

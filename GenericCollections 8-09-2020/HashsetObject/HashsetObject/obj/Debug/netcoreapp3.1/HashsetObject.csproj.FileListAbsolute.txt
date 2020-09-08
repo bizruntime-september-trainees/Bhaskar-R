@@ -1,0 +1,12 @@
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.exe
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.deps.json
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.runtimeconfig.json
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.runtimeconfig.dev.json
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.dll
+E:\.net coding\HashsetObject\HashsetObject\bin\Debug\netcoreapp3.1\HashsetObject.pdb
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.AssemblyInfoInputs.cache
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.AssemblyInfo.cs
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.csproj.CoreCompileInputs.cache
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.dll
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.pdb
+E:\.net coding\HashsetObject\HashsetObject\obj\Debug\netcoreapp3.1\HashsetObject.genruntimeconfig.cache

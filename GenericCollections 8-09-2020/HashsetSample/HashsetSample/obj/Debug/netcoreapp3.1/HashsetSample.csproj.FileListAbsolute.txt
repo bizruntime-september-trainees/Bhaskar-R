@@ -1,0 +1,13 @@
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.exe
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.deps.json
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.runtimeconfig.json
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.runtimeconfig.dev.json
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.dll
+E:\.net coding\HashsetSample\HashsetSample\bin\Debug\netcoreapp3.1\HashsetSample.pdb
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.csprojAssemblyReference.cache
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.AssemblyInfoInputs.cache
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.AssemblyInfo.cs
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.csproj.CoreCompileInputs.cache
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.dll
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.pdb
+E:\.net coding\HashsetSample\HashsetSample\obj\Debug\netcoreapp3.1\HashsetSample.genruntimeconfig.cache

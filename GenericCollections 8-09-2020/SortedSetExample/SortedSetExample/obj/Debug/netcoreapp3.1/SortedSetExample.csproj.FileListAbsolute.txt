@@ -1,0 +1,13 @@
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.exe
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.deps.json
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.runtimeconfig.json
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.runtimeconfig.dev.json
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.dll
+E:\.net coding\SortedSetExample\SortedSetExample\bin\Debug\netcoreapp3.1\SortedSetExample.pdb
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.csprojAssemblyReference.cache
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.AssemblyInfoInputs.cache
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.AssemblyInfo.cs
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.csproj.CoreCompileInputs.cache
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.dll
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.pdb
+E:\.net coding\SortedSetExample\SortedSetExample\obj\Debug\netcoreapp3.1\SortedSetExample.genruntimeconfig.cache

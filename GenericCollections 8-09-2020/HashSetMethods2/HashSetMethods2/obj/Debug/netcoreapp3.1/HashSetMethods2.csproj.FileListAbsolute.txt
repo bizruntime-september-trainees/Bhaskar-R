@@ -1,0 +1,13 @@
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.exe
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.deps.json
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.runtimeconfig.json
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.runtimeconfig.dev.json
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.dll
+E:\.net coding\HashSetMethods2\HashSetMethods2\bin\Debug\netcoreapp3.1\HashSetMethods2.pdb
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.csprojAssemblyReference.cache
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.AssemblyInfoInputs.cache
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.AssemblyInfo.cs
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.csproj.CoreCompileInputs.cache
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.dll
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.pdb
+E:\.net coding\HashSetMethods2\HashSetMethods2\obj\Debug\netcoreapp3.1\HashSetMethods2.genruntimeconfig.cache

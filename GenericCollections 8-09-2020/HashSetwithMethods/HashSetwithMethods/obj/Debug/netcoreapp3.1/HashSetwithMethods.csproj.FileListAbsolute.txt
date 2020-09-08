@@ -1,0 +1,13 @@
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.exe
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.deps.json
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.runtimeconfig.json
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.runtimeconfig.dev.json
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.dll
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\bin\Debug\netcoreapp3.1\HashSetwithMethods.pdb
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.csprojAssemblyReference.cache
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.AssemblyInfoInputs.cache
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.AssemblyInfo.cs
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.dll
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.pdb
+E:\.net coding\HashSetwithMethods\HashSetwithMethods\obj\Debug\netcoreapp3.1\HashSetwithMethods.genruntimeconfig.cache
