@@ -1,0 +1,12 @@
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.exe
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.deps.json
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.runtimeconfig.json
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.runtimeconfig.dev.json
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.dll
+E:\.net coding\AsyncMethod1\AsyncMethod1\bin\Debug\netcoreapp3.1\AsyncMethod1.pdb
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.AssemblyInfoInputs.cache
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.AssemblyInfo.cs
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.csproj.CoreCompileInputs.cache
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.dll
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.pdb
+E:\.net coding\AsyncMethod1\AsyncMethod1\obj\Debug\netcoreapp3.1\AsyncMethod1.genruntimeconfig.cache

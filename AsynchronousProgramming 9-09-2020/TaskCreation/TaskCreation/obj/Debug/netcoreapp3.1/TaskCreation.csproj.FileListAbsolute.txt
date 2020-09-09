@@ -1,0 +1,13 @@
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.exe
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.deps.json
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.runtimeconfig.json
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.runtimeconfig.dev.json
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.dll
+E:\.net coding\TaskCreation\TaskCreation\bin\Debug\netcoreapp3.1\TaskCreation.pdb
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.csprojAssemblyReference.cache
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.AssemblyInfoInputs.cache
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.AssemblyInfo.cs
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.csproj.CoreCompileInputs.cache
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.dll
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.pdb
+E:\.net coding\TaskCreation\TaskCreation\obj\Debug\netcoreapp3.1\TaskCreation.genruntimeconfig.cache

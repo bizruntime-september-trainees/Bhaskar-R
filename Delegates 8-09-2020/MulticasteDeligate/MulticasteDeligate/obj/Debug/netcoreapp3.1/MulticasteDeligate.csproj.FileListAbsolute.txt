@@ -1,0 +1,13 @@
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.exe
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.deps.json
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.runtimeconfig.json
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.runtimeconfig.dev.json
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.dll
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\bin\Debug\netcoreapp3.1\MulticasteDeligate.pdb
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.csprojAssemblyReference.cache
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.AssemblyInfoInputs.cache
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.AssemblyInfo.cs
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.csproj.CoreCompileInputs.cache
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.dll
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.pdb
+E:\.net coding\MulticasteDeligate\MulticasteDeligate\obj\Debug\netcoreapp3.1\MulticasteDeligate.genruntimeconfig.cache

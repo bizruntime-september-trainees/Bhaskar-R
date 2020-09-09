@@ -1,0 +1,13 @@
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.exe
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.deps.json
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.runtimeconfig.json
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.runtimeconfig.dev.json
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.dll
+E:\.net coding\AsyncMethods2\AsyncMethods2\bin\Debug\netcoreapp3.1\AsyncMethods2.pdb
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.csprojAssemblyReference.cache
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.AssemblyInfoInputs.cache
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.AssemblyInfo.cs
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.csproj.CoreCompileInputs.cache
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.dll
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.pdb
+E:\.net coding\AsyncMethods2\AsyncMethods2\obj\Debug\netcoreapp3.1\AsyncMethods2.genruntimeconfig.cache

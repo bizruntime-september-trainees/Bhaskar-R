@@ -1,0 +1,13 @@
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.exe
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.deps.json
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.runtimeconfig.json
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.runtimeconfig.dev.json
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.dll
+E:\.net coding\DelegatesSample\DelegatesSample\bin\Debug\netcoreapp3.1\DelegatesSample.pdb
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.csprojAssemblyReference.cache
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.AssemblyInfoInputs.cache
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.AssemblyInfo.cs
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.csproj.CoreCompileInputs.cache
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.dll
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.pdb
+E:\.net coding\DelegatesSample\DelegatesSample\obj\Debug\netcoreapp3.1\DelegatesSample.genruntimeconfig.cache
