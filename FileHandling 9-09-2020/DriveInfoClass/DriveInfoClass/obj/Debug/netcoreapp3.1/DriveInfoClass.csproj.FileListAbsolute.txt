@@ -1,0 +1,12 @@
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.exe
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.deps.json
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.runtimeconfig.json
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.runtimeconfig.dev.json
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.dll
+E:\.net coding\DriveInfoClass\DriveInfoClass\bin\Debug\netcoreapp3.1\DriveInfoClass.pdb
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.AssemblyInfoInputs.cache
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.AssemblyInfo.cs
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.csproj.CoreCompileInputs.cache
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.dll
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.pdb
+E:\.net coding\DriveInfoClass\DriveInfoClass\obj\Debug\netcoreapp3.1\DriveInfoClass.genruntimeconfig.cache

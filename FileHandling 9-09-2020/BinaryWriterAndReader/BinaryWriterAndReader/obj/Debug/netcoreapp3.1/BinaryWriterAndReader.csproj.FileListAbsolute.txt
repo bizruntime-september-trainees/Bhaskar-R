@@ -1,0 +1,12 @@
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.exe
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.deps.json
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.runtimeconfig.json
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.runtimeconfig.dev.json
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.dll
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\bin\Debug\netcoreapp3.1\BinaryWriterAndReader.pdb
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.AssemblyInfoInputs.cache
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.AssemblyInfo.cs
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.csproj.CoreCompileInputs.cache
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.dll
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.pdb
+E:\.net coding\BinaryWriterAndReader\BinaryWriterAndReader\obj\Debug\netcoreapp3.1\BinaryWriterAndReader.genruntimeconfig.cache

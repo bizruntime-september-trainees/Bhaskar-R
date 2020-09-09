@@ -1,0 +1,12 @@
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.exe
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.deps.json
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.runtimeconfig.json
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.runtimeconfig.dev.json
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.dll
+E:\.net coding\DictionaryClass\DictionaryClass\bin\Debug\netcoreapp3.1\DictionaryClass.pdb
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.AssemblyInfoInputs.cache
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.AssemblyInfo.cs
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.csproj.CoreCompileInputs.cache
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.dll
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.pdb
+E:\.net coding\DictionaryClass\DictionaryClass\obj\Debug\netcoreapp3.1\DictionaryClass.genruntimeconfig.cache

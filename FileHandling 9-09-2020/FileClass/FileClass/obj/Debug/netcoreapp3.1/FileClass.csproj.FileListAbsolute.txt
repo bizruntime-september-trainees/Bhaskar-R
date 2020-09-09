@@ -1,0 +1,13 @@
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.exe
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.deps.json
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.runtimeconfig.json
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.runtimeconfig.dev.json
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.dll
+E:\.net coding\FileClass\FileClass\bin\Debug\netcoreapp3.1\FileClass.pdb
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.csprojAssemblyReference.cache
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.AssemblyInfoInputs.cache
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.AssemblyInfo.cs
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.csproj.CoreCompileInputs.cache
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.dll
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.pdb
+E:\.net coding\FileClass\FileClass\obj\Debug\netcoreapp3.1\FileClass.genruntimeconfig.cache

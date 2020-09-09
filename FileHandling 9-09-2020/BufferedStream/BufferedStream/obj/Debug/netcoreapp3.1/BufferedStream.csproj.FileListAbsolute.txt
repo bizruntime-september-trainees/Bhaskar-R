@@ -1,0 +1,13 @@
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.exe
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.deps.json
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.runtimeconfig.json
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.runtimeconfig.dev.json
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.dll
+E:\.net coding\BufferedStream\BufferedStream\bin\Debug\netcoreapp3.1\BufferedStream.pdb
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.csprojAssemblyReference.cache
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.AssemblyInfoInputs.cache
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.AssemblyInfo.cs
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.csproj.CoreCompileInputs.cache
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.dll
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.pdb
+E:\.net coding\BufferedStream\BufferedStream\obj\Debug\netcoreapp3.1\BufferedStream.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.exe
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.deps.json
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.runtimeconfig.json
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.runtimeconfig.dev.json
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.dll
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\bin\Debug\netcoreapp3.1\DictionaryInfoClass.pdb
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.AssemblyInfoInputs.cache
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.AssemblyInfo.cs
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.csproj.CoreCompileInputs.cache
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.dll
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.pdb
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.genruntimeconfig.cache
+E:\.net coding\DictionaryInfoClass\DictionaryInfoClass\obj\Debug\netcoreapp3.1\DictionaryInfoClass.csprojAssemblyReference.cache
