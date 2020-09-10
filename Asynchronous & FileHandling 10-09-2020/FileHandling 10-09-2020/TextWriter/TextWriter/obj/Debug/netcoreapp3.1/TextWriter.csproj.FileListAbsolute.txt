@@ -1,0 +1,13 @@
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.exe
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.deps.json
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.dll
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.pdb
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.csprojAssemblyReference.cache
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.dll
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.pdb
+E:\.net coding\FileHandling 10-09-2020\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.genruntimeconfig.cache

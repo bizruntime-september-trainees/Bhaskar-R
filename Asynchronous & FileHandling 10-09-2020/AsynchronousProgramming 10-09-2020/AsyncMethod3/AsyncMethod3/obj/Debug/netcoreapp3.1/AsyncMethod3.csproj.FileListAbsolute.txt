@@ -1,0 +1,12 @@
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.exe
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.deps.json
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.dll
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\bin\Debug\netcoreapp3.1\AsyncMethod3.pdb
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.dll
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.pdb
+E:\.net coding\FileHandling 10-09-2020\AsyncMethod3\AsyncMethod3\obj\Debug\netcoreapp3.1\AsyncMethod3.genruntimeconfig.cache

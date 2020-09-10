@@ -1,0 +1,13 @@
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.exe
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.deps.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.runtimeconfig.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.runtimeconfig.dev.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\bin\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.csprojAssemblyReference.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.AssemblyInfoInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.AssemblyInfo.cs
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.csproj.CoreCompileInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithWaitAnyMethod\TaskWithWaitAnyMethod\obj\Debug\netcoreapp3.1\TaskWithWaitAnyMethod.genruntimeconfig.cache

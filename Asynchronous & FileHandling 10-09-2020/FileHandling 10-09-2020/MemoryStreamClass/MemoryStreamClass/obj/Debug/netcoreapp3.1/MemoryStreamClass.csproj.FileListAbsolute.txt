@@ -1,0 +1,12 @@
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.exe
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.deps.json
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.dll
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\bin\Debug\netcoreapp3.1\MemoryStreamClass.pdb
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.dll
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.pdb
+E:\.net coding\FileHandling 10-09-2020\MemoryStreamClass\MemoryStreamClass\obj\Debug\netcoreapp3.1\MemoryStreamClass.genruntimeconfig.cache

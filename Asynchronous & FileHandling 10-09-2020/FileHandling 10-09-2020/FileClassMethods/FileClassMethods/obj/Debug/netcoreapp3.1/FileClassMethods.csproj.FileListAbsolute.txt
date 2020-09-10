@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.exe
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.deps.json
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.runtimeconfig.json
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.dll
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\bin\Debug\netcoreapp3.1\FileClassMethods.pdb
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.AssemblyInfo.cs
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.dll
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.pdb
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.genruntimeconfig.cache
+C:\Users\hp\source\repos\FileClassMethods\FileClassMethods\obj\Debug\netcoreapp3.1\FileClassMethods.csprojAssemblyReference.cache

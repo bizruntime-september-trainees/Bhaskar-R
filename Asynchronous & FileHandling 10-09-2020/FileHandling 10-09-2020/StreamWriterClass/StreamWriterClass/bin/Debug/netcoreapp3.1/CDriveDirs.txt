@@ -1,0 +1,14 @@
+$RECYCLE.BIN
+.net coding
+Files
+format
+Git
+Github
+Microdor
+MY PC
+myapp3
+newprograms
+softwares
+System Volume Information
+TextfIles
+visualstudio

@@ -1,0 +1,12 @@
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.exe
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.deps.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.runtimeconfig.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.runtimeconfig.dev.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\bin\Debug\netcoreapp3.1\TaskWithAllMethod.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.AssemblyInfoInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.AssemblyInfo.cs
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.csproj.CoreCompileInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\TaskWithAllMethod\TaskWithAllMethod\obj\Debug\netcoreapp3.1\TaskWithAllMethod.genruntimeconfig.cache

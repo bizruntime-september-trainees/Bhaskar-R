@@ -1,0 +1,12 @@
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.exe
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.deps.json
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.dll
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\bin\Debug\netcoreapp3.1\StreamWriterClass1.pdb
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.dll
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.pdb
+E:\.net coding\FileHandling 10-09-2020\StreamWriterClass1\StreamWriterClass1\obj\Debug\netcoreapp3.1\StreamWriterClass1.genruntimeconfig.cache

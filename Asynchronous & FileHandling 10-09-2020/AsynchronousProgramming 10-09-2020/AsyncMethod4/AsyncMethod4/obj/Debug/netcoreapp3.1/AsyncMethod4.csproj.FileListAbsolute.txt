@@ -1,0 +1,13 @@
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.exe
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.deps.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.runtimeconfig.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.runtimeconfig.dev.json
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\bin\Debug\netcoreapp3.1\AsyncMethod4.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.csprojAssemblyReference.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.AssemblyInfoInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.AssemblyInfo.cs
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.csproj.CoreCompileInputs.cache
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.dll
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.pdb
+E:\.net coding\AsynchronousProgramming 10-09-2020\AsyncMethod4\AsyncMethod4\obj\Debug\netcoreapp3.1\AsyncMethod4.genruntimeconfig.cache

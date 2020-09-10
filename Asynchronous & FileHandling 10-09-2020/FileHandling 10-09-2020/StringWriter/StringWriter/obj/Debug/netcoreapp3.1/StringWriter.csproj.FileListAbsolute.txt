@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.exe
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.deps.json
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.runtimeconfig.json
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.runtimeconfig.dev.json
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.dll
+C:\Users\hp\source\repos\StringWriter\StringWriter\bin\Debug\netcoreapp3.1\StringWriter.pdb
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.AssemblyInfo.cs
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.dll
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.pdb
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.genruntimeconfig.cache
+C:\Users\hp\source\repos\StringWriter\StringWriter\obj\Debug\netcoreapp3.1\StringWriter.csprojAssemblyReference.cache

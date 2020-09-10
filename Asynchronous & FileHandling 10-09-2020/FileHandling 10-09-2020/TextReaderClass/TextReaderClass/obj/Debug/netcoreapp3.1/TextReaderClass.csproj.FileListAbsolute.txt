@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.exe
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.deps.json
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.runtimeconfig.json
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.runtimeconfig.dev.json
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.dll
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\bin\Debug\netcoreapp3.1\TextReaderClass.pdb
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.dll
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.pdb
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.genruntimeconfig.cache
+C:\Users\hp\source\repos\TextReaderClass\TextReaderClass\obj\Debug\netcoreapp3.1\TextReaderClass.csprojAssemblyReference.cache

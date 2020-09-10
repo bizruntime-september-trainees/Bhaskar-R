@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.exe
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.deps.json
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.runtimeconfig.json
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.runtimeconfig.dev.json
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.dll
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\bin\Debug\netcoreapp3.1\StringReaderClass.pdb
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.dll
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.pdb
+C:\Users\hp\source\repos\StringReaderClass\StringReaderClass\obj\Debug\netcoreapp3.1\StringReaderClass.genruntimeconfig.cache

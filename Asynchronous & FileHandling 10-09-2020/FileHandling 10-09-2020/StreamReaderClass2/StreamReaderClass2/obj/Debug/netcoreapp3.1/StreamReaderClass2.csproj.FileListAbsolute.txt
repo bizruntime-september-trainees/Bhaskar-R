@@ -1,0 +1,13 @@
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.exe
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.deps.json
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.dll
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\bin\Debug\netcoreapp3.1\StreamReaderClass2.pdb
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.csprojAssemblyReference.cache
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.dll
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.pdb
+E:\.net coding\FileHandling 10-09-2020\StreamReaderClass2\StreamReaderClass2\obj\Debug\netcoreapp3.1\StreamReaderClass2.genruntimeconfig.cache

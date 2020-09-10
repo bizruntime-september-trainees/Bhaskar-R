@@ -1,0 +1,13 @@
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.csprojAssemblyReference.cache
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.AssemblyInfoInputs.cache
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.AssemblyInfo.cs
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.csproj.CoreCompileInputs.cache
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.exe
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.deps.json
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.runtimeconfig.json
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.runtimeconfig.dev.json
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.dll
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\bin\Debug\netcoreapp3.1\FileInfoMethods.pdb
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.dll
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.pdb
+E:\.net coding\FileHandling 10-09-2020\FileInfoMethods\FileInfoMethods\obj\Debug\netcoreapp3.1\FileInfoMethods.genruntimeconfig.cache
