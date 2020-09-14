@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.exe
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.deps.json
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.dll
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\ParsingJsonObject.pdb
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.dll
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.pdb
+E:\.net coding\NewtonSoftJson\ParsingJsonObject\ParsingJsonObject\obj\Debug\netcoreapp3.1\ParsingJsonObject.genruntimeconfig.cache

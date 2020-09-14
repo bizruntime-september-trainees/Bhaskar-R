@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.exe
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.deps.json
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.dll
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\JsonSerializationProperties.pdb
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.dll
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.pdb
+E:\.net coding\NewtonSoftJson\JsonSerializationProperties\JsonSerializationProperties\obj\Debug\netcoreapp3.1\JsonSerializationProperties.genruntimeconfig.cache

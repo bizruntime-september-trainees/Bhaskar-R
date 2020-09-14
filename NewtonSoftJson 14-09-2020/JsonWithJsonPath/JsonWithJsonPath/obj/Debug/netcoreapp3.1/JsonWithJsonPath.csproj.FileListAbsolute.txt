@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.exe
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.deps.json
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.dll
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\JsonWithJsonPath.pdb
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.dll
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.pdb
+E:\.net coding\NewtonSoftJson\JsonWithJsonPath\JsonWithJsonPath\obj\Debug\netcoreapp3.1\JsonWithJsonPath.genruntimeconfig.cache

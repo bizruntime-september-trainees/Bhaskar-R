@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkrEQEJnYvD/aSf/fjkhmsGcRJ1yAjm4Rbg+0jFeBsaa9oO4CGB0bqC+QL4nJeGFa5qDzq0tvrOvhzoSApeb5w==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\ModifyJson\\ModifyJson\\ModifyJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

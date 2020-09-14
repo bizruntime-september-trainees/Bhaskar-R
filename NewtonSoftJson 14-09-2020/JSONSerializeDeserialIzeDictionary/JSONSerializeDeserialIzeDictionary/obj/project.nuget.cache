@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LZ9Y6mBd0j5Z2zU80h8Q8AH+VnyQFlmm7ksXst3I7fwxDH4lxXSVUaxWAfQTsi2Obaxap5IM3zC49DAJ+2Q6w==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\JSONSerializeDeserialIzeDictionary\\JSONSerializeDeserialIzeDictionary\\JSONSerializeDeserialIzeDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

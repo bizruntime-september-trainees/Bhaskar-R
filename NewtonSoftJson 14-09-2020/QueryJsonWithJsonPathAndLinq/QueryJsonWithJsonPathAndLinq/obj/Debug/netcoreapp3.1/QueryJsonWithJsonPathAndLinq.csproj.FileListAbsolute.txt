@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.exe
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.deps.json
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.dll
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.pdb
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.dll
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.pdb
+E:\.net coding\NewtonSoftJson\QueryJsonWithJsonPathAndLinq\QueryJsonWithJsonPathAndLinq\obj\Debug\netcoreapp3.1\QueryJsonWithJsonPathAndLinq.genruntimeconfig.cache

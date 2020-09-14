@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.exe
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.deps.json
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.dll
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.pdb
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.dll
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.pdb
+E:\.net coding\NewtonSoftJson\SerialIzingJSONFileTOFile\SerialIzingJSONFileTOFile\obj\Debug\netcoreapp3.1\SerialIzingJSONFileTOFile.genruntimeconfig.cache

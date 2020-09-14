@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.exe
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.deps.json
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.dll
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\JsonFromAnObject.pdb
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.dll
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.pdb
+E:\.net coding\NewtonSoftJson\JsonFromAnObject\JsonFromAnObject\obj\Debug\netcoreapp3.1\JsonFromAnObject.genruntimeconfig.cache

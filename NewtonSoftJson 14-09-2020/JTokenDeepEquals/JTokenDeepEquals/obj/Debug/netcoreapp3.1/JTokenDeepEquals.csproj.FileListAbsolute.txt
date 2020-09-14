@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.exe
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.deps.json
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.dll
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\JTokenDeepEquals.pdb
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.dll
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.pdb
+E:\.net coding\NewtonSoftJson\JTokenDeepEquals\JTokenDeepEquals\obj\Debug\netcoreapp3.1\JTokenDeepEquals.genruntimeconfig.cache

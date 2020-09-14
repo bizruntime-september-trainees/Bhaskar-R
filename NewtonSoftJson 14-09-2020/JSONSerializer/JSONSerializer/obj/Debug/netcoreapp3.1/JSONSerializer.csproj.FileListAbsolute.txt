@@ -1,0 +1,5 @@
+E:\.net coding\NewtonSoftJson\JSONSerializer\JSONSerializer\bin\Debug\netcoreapp3.1\JSONSerializer.exe
+E:\.net coding\NewtonSoftJson\JSONSerializer\JSONSerializer\obj\Debug\netcoreapp3.1\JSONSerializer.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JSONSerializer\JSONSerializer\obj\Debug\netcoreapp3.1\JSONSerializer.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JSONSerializer\JSONSerializer\obj\Debug\netcoreapp3.1\JSONSerializer.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JSONSerializer\JSONSerializer\obj\Debug\netcoreapp3.1\JSONSerializer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMNnEq3BEtXfE2tUVmFttVsY1pTbws4pJOAwlKusGgA80AjWJf6/9JLENJg9lx/aX+Z1LYabnEn8Q9wJHcLjuw==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\JTokenDeepEquals\\JTokenDeepEquals\\JTokenDeepEquals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

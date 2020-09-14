@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.exe
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.deps.json
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.dll
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\PopulatingObject.pdb
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.dll
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.pdb
+E:\.net coding\NewtonSoftJson\PopulatingObject\PopulatingObject\obj\Debug\netcoreapp3.1\PopulatingObject.genruntimeconfig.cache

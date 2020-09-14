@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dP8xYZ/+hOdEhkMUZUkzffdITsRQX9E0qeldZHQeIT6thKWhZgZKyzH7XB2XIc0MdPl2UFImobn4cCzfPUwixA==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\DateFormatHandling\\DateFormatHandling\\DateFormatHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.exe
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.deps.json
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.dll
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\JsonWithTockenWriter.pdb
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.dll
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.pdb
+E:\.net coding\NewtonSoftJson\JsonWithTockenWriter\JsonWithTockenWriter\obj\Debug\netcoreapp3.1\JsonWithTockenWriter.genruntimeconfig.cache

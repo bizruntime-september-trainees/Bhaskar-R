@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTQXY2OaQuOf6S+kDIvNIppglhbp1P6Rs13Vrya9JioSA0ZR55sVfhVBTiNaIsqR2qjecS76aCxqp1U/d17GSQ==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\PopulatingObject\\PopulatingObject\\PopulatingObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

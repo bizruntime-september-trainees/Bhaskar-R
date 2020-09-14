@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IR/ndfLyYLkSC0z+GUo+5rVAqYt7/7jqb0HrvUrvzNDgRu6J/RvCuJk9zS1KBL7k5H71iIlqVju+FbtKbZ5Xuw==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\CreateJsonDeclarative\\CreateJsonDeclarative\\CreateJsonDeclarative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

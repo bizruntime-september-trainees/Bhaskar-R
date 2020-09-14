@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.exe
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.deps.json
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.dll
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\QueryingJsonWithLinq.pdb
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.dll
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.pdb
+E:\.net coding\NewtonSoftJson\QueryingJsonWithLinq\QueryingJsonWithLinq\obj\Debug\netcoreapp3.1\QueryingJsonWithLinq.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANDqgTHgSJXNLJhueEWBnpXHhOzVzG0C15Khu7Z3z0IIe74dvZEKV/MAY5QguyeDl5xlcMY/7TniKHtdNBDwoQ==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\JsonWithTockenWriter\\JsonWithTockenWriter\\JsonWithTockenWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

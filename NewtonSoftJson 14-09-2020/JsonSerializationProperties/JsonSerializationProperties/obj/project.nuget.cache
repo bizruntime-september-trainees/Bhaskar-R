@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tjuzk70ZDnOcKPsB4/yKv5aeVfWLHrziUbGgOkzCHBRob+TDPxCbIjlvAnMSninEuTp7rWJvuCi1i6rlhJgekg==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\JsonSerializationProperties\\JsonSerializationProperties\\JsonSerializationProperties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

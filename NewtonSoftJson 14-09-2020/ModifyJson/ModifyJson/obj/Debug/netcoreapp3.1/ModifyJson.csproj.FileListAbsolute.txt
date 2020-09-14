@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.exe
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.deps.json
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.dll
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\ModifyJson.pdb
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.dll
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.pdb
+E:\.net coding\NewtonSoftJson\ModifyJson\ModifyJson\obj\Debug\netcoreapp3.1\ModifyJson.genruntimeconfig.cache

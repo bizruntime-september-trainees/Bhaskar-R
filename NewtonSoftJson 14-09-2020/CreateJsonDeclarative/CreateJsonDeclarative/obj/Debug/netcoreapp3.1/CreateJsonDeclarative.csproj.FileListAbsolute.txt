@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.exe
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.deps.json
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.dll
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\CreateJsonDeclarative.pdb
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.dll
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.pdb
+E:\.net coding\NewtonSoftJson\CreateJsonDeclarative\CreateJsonDeclarative\obj\Debug\netcoreapp3.1\CreateJsonDeclarative.genruntimeconfig.cache

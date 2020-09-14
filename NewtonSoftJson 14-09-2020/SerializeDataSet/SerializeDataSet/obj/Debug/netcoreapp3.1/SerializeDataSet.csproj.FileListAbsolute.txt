@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.exe
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.deps.json
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.dll
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\SerializeDataSet.pdb
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.dll
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.pdb
+E:\.net coding\NewtonSoftJson\SerializeDataSet\SerializeDataSet\obj\Debug\netcoreapp3.1\SerializeDataSet.genruntimeconfig.cache

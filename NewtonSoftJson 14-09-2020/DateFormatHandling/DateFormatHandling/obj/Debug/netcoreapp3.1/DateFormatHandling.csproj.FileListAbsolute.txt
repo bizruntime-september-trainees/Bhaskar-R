@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.exe
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.deps.json
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.dll
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\DateFormatHandling.pdb
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.dll
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.pdb
+E:\.net coding\NewtonSoftJson\DateFormatHandling\DateFormatHandling\obj\Debug\netcoreapp3.1\DateFormatHandling.genruntimeconfig.cache

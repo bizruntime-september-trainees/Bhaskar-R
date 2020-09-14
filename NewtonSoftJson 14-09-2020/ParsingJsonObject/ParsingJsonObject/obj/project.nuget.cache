@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxiwyJDVYgwPYIjFSk3rU1+plfbs2x9QCwwam6RLT2UjW3DAMoVo+sv0u02kqDzb3YeHPr9ucdYo7tcz37cXOg==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\ParsingJsonObject\\ParsingJsonObject\\ParsingJsonObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

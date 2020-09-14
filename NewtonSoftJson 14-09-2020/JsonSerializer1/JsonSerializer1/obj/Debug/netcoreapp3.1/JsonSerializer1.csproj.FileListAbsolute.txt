@@ -1,0 +1,15 @@
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.exe
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.AssemblyInfoInputs.cache
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.AssemblyInfo.cs
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.deps.json
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.runtimeconfig.json
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.runtimeconfig.dev.json
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.dll
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\JsonSerializer1.pdb
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.csprojAssemblyReference.cache
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.csproj.CoreCompileInputs.cache
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.csproj.CopyComplete
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.dll
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.pdb
+E:\.net coding\NewtonSoftJson\JsonSerializer1\JsonSerializer1\obj\Debug\netcoreapp3.1\JsonSerializer1.genruntimeconfig.cache

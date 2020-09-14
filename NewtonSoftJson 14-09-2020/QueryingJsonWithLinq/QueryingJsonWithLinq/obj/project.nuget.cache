@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEoY+osTWqW5NG4MqASeAvPTkeVz7vownVQwyGP5/CvHYH3CA6BQXQLxtDIib5Vwq3OeNnC/usTo1xJ4Q+QQfg==",
+  "success": true,
+  "projectFilePath": "E:\\.net coding\\NewtonSoftJson\\QueryingJsonWithLinq\\QueryingJsonWithLinq\\QueryingJsonWithLinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
