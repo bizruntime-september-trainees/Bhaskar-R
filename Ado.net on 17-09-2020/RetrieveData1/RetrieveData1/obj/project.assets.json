@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net coding\\ADO.Net\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Ado.net on 17-09-2020\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
       "projectName": "RetrieveData1",
-      "projectPath": "E:\\.net coding\\ADO.Net\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Ado.net on 17-09-2020\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\.net coding\\ADO.Net\\RetrieveData1\\RetrieveData1\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Ado.net on 17-09-2020\\RetrieveData1\\RetrieveData1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,8 +13,7 @@ namespace RetriveData1
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand("Retrieve_Record_Procedure11 @name='SSD DRIVE'", con);
-                /*cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.Add(new SqlParameter("@Name", "SSD DRIVE"));*/
+               
                 SqlDataReader dr = cmd.ExecuteReader();
                 while (dr.Read())
                 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32fQ1jdHgos5b9px0n3dZmKoKx5ewLd0XO316wqLPWi2zkWNI2LU3AOBcwK0ALlkpDkTkhj675tH8WR5LjKirw==",
+  "dgSpecHash": "qgnDQ4TzUcFkkIlClACV9ixRbe6m/qrO20HRIOggqbJLBrpJ0c07VHGgNAxrwp/8piN1T6aMdzsyojo0fD0cxQ==",
   "success": true,
-  "projectFilePath": "E:\\.net coding\\ADO.Net\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Ado.net on 17-09-2020\\RetrieveData1\\RetrieveData1\\RetrieveData1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

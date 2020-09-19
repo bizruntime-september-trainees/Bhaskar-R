@@ -1,0 +1,16 @@
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\AdoconfigurationFile.exe.config
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\AdoconfigurationFile.exe
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\AdoconfigurationFile.pdb
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.AccessControl.dll
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.Permissions.dll
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.Principal.Windows.dll
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.AccessControl.xml
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.Permissions.xml
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\bin\Debug\System.Security.Principal.Windows.xml
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\obj\Debug\AdoconfigurationFile.csprojAssemblyReference.cache
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\obj\Debug\AdoconfigurationFile.csproj.CoreCompileInputs.cache
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\obj\Debug\AdoconfigurationFile.csproj.CopyComplete
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\obj\Debug\AdoconfigurationFile.exe
+E:\.net coding\ADO.Net\AdoconfigurationFile\AdoconfigurationFile\obj\Debug\AdoconfigurationFile.pdb
