@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj": {
+    "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj",
         "projectName": "CoreMVC_CodeFirstEF",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\CoreMVC_CodeFirstEF\\CoreMVC_CodeFirstEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
