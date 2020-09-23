@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njmTxZk6z5d3sxrdSHU9qu2++7kDIggl+lLTEDrkaH2eMJZum8KC7vBi4JWtEesnv7vS15fP+C8UCzn9ZtgShg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\ReactiveObservableAndObserveRepresentation\\ReactiveObservableAndObserveRepresentation\\ReactiveObservableAndObserveRepresentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

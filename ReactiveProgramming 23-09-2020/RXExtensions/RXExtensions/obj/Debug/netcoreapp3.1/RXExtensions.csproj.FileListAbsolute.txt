@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.exe
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.AssemblyInfo.cs
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.deps.json
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.runtimeconfig.json
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.runtimeconfig.dev.json
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.dll
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\RXExtensions.pdb
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.csproj.CopyComplete
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.dll
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.pdb
+C:\Users\hp\source\repos\RXExtensions\RXExtensions\obj\Debug\netcoreapp3.1\RXExtensions.genruntimeconfig.cache
