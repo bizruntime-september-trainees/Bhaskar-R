@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\ReactiveWithSubject.exe.config
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\ReactiveWithSubject.exe
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\ReactiveWithSubject.pdb
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Reactive.dll
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Reactive.xml
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\obj\Debug\ReactiveWithSubject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\obj\Debug\ReactiveWithSubject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\obj\Debug\ReactiveWithSubject.csproj.CopyComplete
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\obj\Debug\ReactiveWithSubject.exe
+C:\Users\hp\source\repos\ReactiveWithSubject\ReactiveWithSubject\obj\Debug\ReactiveWithSubject.pdb

@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\UsingSubjectRX.exe.config
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\UsingSubjectRX.exe
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\UsingSubjectRX.pdb
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Reactive.dll
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Reactive.xml
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\obj\Debug\UsingSubjectRX.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\obj\Debug\UsingSubjectRX.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\obj\Debug\UsingSubjectRX.csproj.CopyComplete
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\obj\Debug\UsingSubjectRX.exe
+C:\Users\hp\source\repos\UsingSubjectRX\UsingSubjectRX\obj\Debug\UsingSubjectRX.pdb
