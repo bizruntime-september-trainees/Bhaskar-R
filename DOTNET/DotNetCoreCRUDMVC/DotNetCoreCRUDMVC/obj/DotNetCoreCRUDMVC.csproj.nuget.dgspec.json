@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj",
         "projectName": "DotNetCoreCRUDMVC",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\DOTNET\\DotNetCoreCRUDMVC\\DotNetCoreCRUDMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

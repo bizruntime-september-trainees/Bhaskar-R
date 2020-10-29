@@ -1,0 +1,25 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #3b3daa;
+  color: #910a52;
+}
+
+.sample {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.sample .sample__paragraph {
+  font-weight: 1000;
+}
+
+.sample .sample__paragraph:hover {
+  color: yellow;
+}
+/*# sourceMappingURL=import.css.map */

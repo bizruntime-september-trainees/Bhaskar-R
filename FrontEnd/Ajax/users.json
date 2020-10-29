@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name" : "Aman",
+        "email":"aman@bizruntime.net"
+    },
+    {
+        "id" : 2,
+        "name" : "Utkarsh",
+        "email":"Utkarsh@bizruntime.net"
+    },
+    {
+        "id" : 3,
+        "name" : "Bhaskar",
+        "email":"Bhaskar@bizruntime.net"
+    }        
+]

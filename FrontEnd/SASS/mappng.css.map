@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AASA,AAAA,IAAI,CAAA;EACA,UAAU,EAVE,OAAgB;EAW5B,KAAK,EATG,OAAgB;EAUxB,WAAW,EANJ,GAAG;CAOb",
+    "sources": [
+        "mappng.scss"
+    ],
+    "names": [],
+    "file": "mappng.css"
+}

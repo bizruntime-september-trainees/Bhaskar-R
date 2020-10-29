@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Login Page</h1>
+    <form >
+        <div style="text-align: center;">
+          <label>Firstname:</label>
+           <input type="text" id="fname" onfocus="myFunction(this.id)"><br>
+           <label>Lastname:</label>
+           <input type="text" id="lname" onfocus="myFunction(this.id)"></br>
+
+            
+          <label >Password:</label>
+          <input type="password" id="password" placeholder="Enter Password" name="psw" "  onfocus="myFunction(this.id)" required>
+           <br>
+          <button type="submit" style="text-align:center;color:blue;">Login</button>   
+
+        </div>  
+        <script>
+            function myFunction(x) {
+              document.getElementById(x).style.background = "blue";
+            }
+        </script>   
+        
+    </form> 
+</body>
+</html>

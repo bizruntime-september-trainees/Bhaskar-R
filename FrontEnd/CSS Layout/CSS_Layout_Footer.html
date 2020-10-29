@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #00249c;
+  padding: 10px;
+  text-align: center;
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow:hidden;
+  background-color: rgb(83, 17, 17);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #cfccccec;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+/* Change color on hover */
+.topnav a:hover {
+  background-color: rgb(150, 165, 150);
+  color: whitesmoke;
+}
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Responsive layout - makes the three columns 
+stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+.footer {
+  background-color: #6d0a1bd0;
+  padding: 10px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Header</h1>
+  </div>
+
+  <div class="topnav">
+    <a href="https://www.w3schools.com/">W3Schools</a>
+    <a href="https://www.google.com/">google</a>
+    <a href="https://www.w3schools.com/cssref/default.asp">References</a>
+    <a href = "/about.html" >about</a>
+  </div>
+
+  <div class="row">
+    <div class="column side">
+      <h2>LeftSide</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+    </div>
+    
+    <div class="column middle">
+      <h2>Main Content</h2>
+      <img src="/TaskSheet.jpg" alt="Task sheet" width="500" height="400"/>
+    </div>
+    
+    <div class="column side">
+      <h2>RightSide</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+    </div>
+  </div>
+  <div class= "footer">
+      <h2>Footer</h2>
+  </div>
+</body>
+</html>

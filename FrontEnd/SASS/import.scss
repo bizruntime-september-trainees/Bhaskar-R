@@ -1,0 +1,21 @@
+
+@import './import_resets';
+@import './import_variables';
+body{
+    background: $primary-color;
+    color: $text-color;
+    
+}
+.sample{
+    width: 80%;
+    margin: 0 auto;
+    //.sample__paragraph{
+       // &__paragraph{
+           #{&}__paragraph{  //interpolation
+        font-weight: map-get($font-type, bold);
+
+        &:hover{
+            color: yellow;
+        }
+    }
+}

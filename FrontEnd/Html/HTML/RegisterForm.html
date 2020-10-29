@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<500px>, initial-scale=1.0">
+    <title>Document</title>    
+</head>
+<body>
+    <h1 style="text-align: center;">Registration Form</h1>
+    <form>
+        <div style="text-align: center;">
+            <label for="name">FirstName:</label> 
+            <input type="text" name="fname" placeholder="firstName" required></br>
+    
+            <label for="name">LastName:</label>
+            <input type="text" name="lname" placeholder="lastName" /></br>
+            <label for="email">EmailAdd</Address>:</label>
+            <input type="email" name="mail" placeholder="@gmail.com" /></br>
+            
+            <label for="gender">Gender:</label>
+            <input type="radio" name ="gender" id="male" value="male"/>
+            <label for="gender">Male</label>
+            <input type="radio" name ="gender" id="female" value="male"/>
+            <label for="gender">Female</label>
+            <input type="radio" name ="gender" id="other" value="other"/>
+            <label for="gender">Other</label><br></br>
+    
+            <lable for="designation">Desingnation</lable>
+            <select id = "role" name="roles">
+                <option value="manager">Tech.Manager</option>
+                <option value="devoloper">Devoloper</option>
+                <option value="engineer">Sys.Engineer</option>
+                <option value="devops">Devops</option>           
+            </select></br><br>
+    
+            <lable for="password">New Password</lable>
+            <input type="password" name="pass" placeholder="India@123" required/><br></br>
+    
+            <lable for="password">Confirm Password</lable>
+            <input type="password" name="confirmpass" required/></br>
+            <br></br>
+            <button type="submit" onclick="alert('successfully registerd')" style="text-align:center;color:blue;">Submit</button>
+    
+            </div>
+    </form>
+</body>
+</html>

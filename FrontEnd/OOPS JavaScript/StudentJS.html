@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        
+        class Student 
+        {       
+            constructor(rolNum,name)
+            {
+                this.rolNum = rolNum;
+                this.name = name;
+            }
+            show()
+            {
+                document.writeln(this.rolNum + " " + this.name+ "</br>");
+            }
+        }
+        var s1 = new Student(101,"Vishnu");
+        var s2 = new Student(102,"Bhaskar");
+        s1.show();       
+        s2.show();
+
+    </script>
+</body>
+</html>

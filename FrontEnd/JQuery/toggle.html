@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").toggle(1000);
+  }); 
+});
+</script>
+</head>
+<body>
+
+    <button>toggle between both show anfd hide</button>
+    <p>Pipeable Operators are the kind that can be piped to Observables using the syntax observableInstance.
+        pipe(operator()). These include, filter(...), and mergeMap(...). When called, they do not change the
+        existing Observable instance.Instead, they return a new Observable, whose subscription logic is 
+        based on the first Observable.
+    </p>
+</body>
+</html>

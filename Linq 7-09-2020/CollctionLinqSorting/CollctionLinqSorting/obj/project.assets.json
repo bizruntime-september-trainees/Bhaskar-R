@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CollctionLinqSorting\\CollctionLinqSorting\\CollctionLinqSorting.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Linq 7-09-2020\\CollctionLinqSorting\\CollctionLinqSorting\\CollctionLinqSorting.csproj",
       "projectName": "CollctionLinqSorting",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\CollctionLinqSorting\\CollctionLinqSorting\\CollctionLinqSorting.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Linq 7-09-2020\\CollctionLinqSorting\\CollctionLinqSorting\\CollctionLinqSorting.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\CollctionLinqSorting\\CollctionLinqSorting\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Bhaskar-R\\Linq 7-09-2020\\CollctionLinqSorting\\CollctionLinqSorting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

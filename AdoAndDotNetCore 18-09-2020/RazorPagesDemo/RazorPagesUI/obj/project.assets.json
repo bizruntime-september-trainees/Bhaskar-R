@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.net Razor\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\AdoAndDotNetCore 18-09-2020\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
       "projectName": "RazorPagesUI",
-      "projectPath": "E:\\ASP.net Razor\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\AdoAndDotNetCore 18-09-2020\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.net Razor\\RazorPagesDemo\\RazorPagesUI\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Bhaskar-R\\AdoAndDotNetCore 18-09-2020\\RazorPagesDemo\\RazorPagesUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

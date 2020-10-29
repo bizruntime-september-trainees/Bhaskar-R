@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");    
+  });
+  
+});
+</script>
+<style> 
+#panel  {
+  padding: 5px;
+  text-align: center;
+  background-color: #6f8a26;
+  border: solid 1px #8d2c2c;
+}
+#flip  {
+  padding: 5px;
+  text-align: center;
+  background-color: #431370;
+  border: solid 1px #bea016;
+}
+#panel {
+  padding: 50px;
+}
+</style>
+</head>
+<body>
+ 
+<div id="flip">Click to slide up panel</div>
+<div id="panel">this will be slided</div>
+
+</body>
+</html>
